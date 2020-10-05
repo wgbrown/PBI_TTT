@@ -1,6 +1,7 @@
-Videos that support learning the instructor material for Train the Trainer
+This folder contais documents with supporting documents for delivery of the DIAD material
 
-List of videos in the Excel file with descriptions and links
+Excel 
+
 
  
  
