@@ -2,7 +2,7 @@
 
 The repo contains information for anyone interested in delivering the Power BI DIAD material to a small group of users.  
 
-The actual pdf walk through that comes with DIAD has all the information needed.  This repo has video examples of many of the most complex steps, supplemental videos to  better enable the trainer to answer questions, powerpoint decks and links that help explain key conepts.  Most of the meterial is key very short so an experienced users or trainer could pick the material for review.  
+The actual pdf walk through that comes with DIAD has all the information needed.  This repo has video examples of many of the most complex steps, supplemental videos to  better enable the trainer to answer questions, powerpoint decks and links that help explain key conepts.  Most of the meterial is kept very short so an experienced users or trainer could pick the material for review.  
 
 In preperation, anyone delivering the content should attending one of the online sessions https://aka.ms/NEXTdiad to see how the material is delivered.  
 
