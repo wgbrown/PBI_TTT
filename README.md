@@ -12,6 +12,8 @@ In additon to this material, other trainings that would be useful and is inculde
 https://docs.microsoft.com/en-us/learn/browse/?products=power-bi&resource_type=learning%20path 
 https://www.linkedin.com/learning/paths/become-a-data-analyst?u=3322 
 
+Download the student guide and data files:  http://assetsprod.microsoft.com/diad-student-english.zip 
+
 Warning:
 
 This material has been created informally.  The recorded videos are captured as a verbal explanation with little editting, as if delviered in a 1:1 session.
